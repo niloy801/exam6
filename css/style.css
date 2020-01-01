@@ -1,0 +1,86 @@
+.home-section{
+    background: url(../img/cover.png)center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 0px;
+
+}
+.home-title{
+	text-align: center;
+}
+h1 {
+    text-align: center;
+    font-size: 33px;
+    font-weight: 700;
+    color: black;
+    padding-top: 54px;
+}
+h2 {
+    text-align: center;
+    font-size: 24px;
+    color: black;
+    padding-bottom: 24px;
+}
+button.btn.btn-cus {
+    padding: 8px 10px;
+    background: chartreuse;
+    border-radius: 14px;
+    margin: 0 auto;
+    color: white;
+}
+.col-md-12.services-title.mx-auto {
+    text-align: center;
+}
+h2.ser {
+    padding-top: 26px;
+    font-size: 30px;
+    font-weight: 700;
+}
+h2.serv {
+    font-size: 30px;
+    font-weight: 500;
+}
+p.nil {
+    font-size: 15px;
+    padding-top: 13px;
+}
+p.ni {
+    font-size: 15px;
+    padding-top: 45px;
+}
+.col-md-6.img-title {
+    background: antiquewhite;
+    text-align: center;
+}
+.col-md-6.img-title-two {
+    background: aqua;
+    text-align: center;
+}
+button.btn.btn-custo {
+    padding: 8px 10px;
+    background: chartreuse;
+    border-radius: 14px;
+    margin: 0 auto;
+    color: white;
+}
+button.btn.btn-custoo {
+    padding: 8px 10px;
+    background: #293c17;
+    border-radius: 14px;
+    margin: 0 auto;
+    color: white;
+}
+img.imm {
+    padding-right: 375px;
+}
+h2.hhhhh {
+    font-size: 21px;
+    text-align: inherit;
+}
+button.btn.btn-cc {
+    padding: 8px 10px;
+    background: #293c17;
+    border-radius: 14px;
+    margin: 0 auto;
+    color: white;
+}
